@@ -26,9 +26,20 @@ This project focuses on building a structured data model in Power BI using multi
 - Developed measures for revenue, customers, orders, delivery performance, and target achievement.
 - Built an interactive sales performance report.
 - Implemented Row-Level Security (RLS).
-
+  
 ## Report Preview
-Dashboard screenshots will be added to this repository.
+
+### Sales Performance Dashboard
+![Sales Performance Dashboard](sales-dashboard-overview.png)
+
+### Filtered Sales Dashboard
+![Filtered Sales Dashboard](sales-dashboard-filtered.png)
+
+### Power BI Data Model
+![Power BI Data Model](data-model-relationships.png)
+
+### Measures Overview
+![Power BI Measures Overview](powerbi-measures-overview.png)
 
 ## Key Learning
 This project strengthened my understanding of dimensional data modeling, data quality, relationships, DAX, and the importance of building a reliable data model before creating business reports.
